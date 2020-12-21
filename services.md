@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Service
-permalink: /service/
+title: Services
+permalink: /services/
 ---
 
 Tell us about your blog. Hopefully it's cool.
