@@ -4,12 +4,24 @@ title: Miscellany
 permalink: /miscellany/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+### Teaching 
+ - ソフトウェア設計論 (Software Design, 2nd Semester) at Nara Institute of science and technology (in Japanese):  2019, 2018, 2017, 2016 
+ - Special Lecture in Information Science A (情報科学特別講義A) at Nara Institute of science and technology  (in English): 2018
+ - ソフトウェア開発演習Ⅰ (Exercise in Practical Software Development I, 3rd Semester) at Nara Institute of science and technology (in Japanese): 2017, 2016
+ - 情報活用基礎 (Basic Information Literacy, Spring) at Osaka University (in Japanese): 2015
 
-Sed in egestas enim. Cras dapibus leo ligula, ut ultricies eros imperdiet sed. Morbi urna neque, suscipit sit amet fermentum ac, vehicula tempor felis. Quisque sed velit nisi. Aenean ullamcorper, purus a vehicula pretium, diam sem convallis sem, vel accumsan augue tortor in nibh. Ut ultrices hendrerit metus id suscipit. Vivamus mattis neque felis. Nullam vulputate augue id dolor consectetur, in commodo tortor efficitur. Nunc aliquet magna nibh, ut pretium turpis ultricies vel.
+###  Invited talk
+ - プログラム解析技術を用いたソフトウェア開発支援: 令和元年 電気関係学会学会関西連合大会, 1 December. 2019
+ - Software development support based on source code analysis: Kasetsart University at Thailand, 21 April. 2016
 
-Fusce non eleifend quam. In leo quam, vestibulum vel vulputate a, hendrerit non nibh. Aliquam gravida commodo pretium. Morbi at ligula sed turpis sollicitudin fringilla et vel ante. Maecenas urna arcu, tempor sed neque vel, tempus consequat nisi. Quisque ac arcu ac lorem auctor egestas. Aliquam finibus volutpat tortor, a pellentesque lacus. Maecenas ullamcorper nisi non turpis tincidunt, ut sollicitudin arcu tempus. Suspendisse tristique nulla a porta ultrices. Vivamus sit amet nunc sagittis, efficitur massa ut, posuere quam. Donec sit amet posuere magna, in ullamcorper arcu. Duis id est blandit, bibendum metus at, interdum mi. Vestibulum et dui tellus. Phasellus laoreet enim id dapibus suscipit. Nam convallis risus ac justo tristique convallis. Cras et varius mauris.
+###  Grants and Scholarships
+ - 日本学術振興会 科学研究費補助金 若手研究（課題番号:19K20240)，2019 - 2021，研究代表者
+ - 日本学術振興会 科学研究費補助金 基盤研究（A）（課題番号:18H04094)，2018 - 2023，研究分担者
+ - 日本学術振興会 科学研究費補助金 研究活動スタート支援 （課題番号:15H06344），2015 - 2016，研究代表者
+ - Nishimura International Scholarship Foundation, April 2012 - March 2014
+ - Rotary Yoneyama Memorial Foundation Scholarship, April 2011 - March 2012
 
-Nullam libero nunc, rutrum vitae tellus ut, pretium sollicitudin sapien. In auctor ipsum sed orci aliquam, eget malesuada velit auctor. Nulla vel maximus ligula, vel molestie odio. Vivamus ac lorem quis libero dictum blandit. Fusce tincidunt justo quis lorem sollicitudin, sed rhoncus nibh facilisis. Morbi vitae congue nunc. Praesent a enim rhoncus, malesuada urna ac, accumsan ex. Fusce ornare porta ipsum id iaculis. Phasellus consectetur nisl vitae est pretium, at ultrices mauris placerat. Duis pellentesque mauris sapien, sed tristique ante auctor vel. Vivamus at sodales metus, eget malesuada eros.
-
-Nunc quis venenatis nunc. Nunc nec libero non quam suscipit placerat. Pellentesque lobortis sagittis arcu at euismod. Phasellus odio nisl, mattis sed sagittis semper, aliquet id sem. Quisque iaculis nisl urna, ac accumsan elit commodo vel. Proin sagittis eleifend sollicitudin. Sed libero lorem, tempus eget turpis id, aliquet commodo augue. Proin diam dolor, rutrum et magna at, semper rutrum sapien.
+###  Awards
+ - 卓越研究賞(IPSJ SIG SE Excellent Research Award), 7 Sept. 2018
+ - Google/SAP Diversity Awards, SANER 2015, 03 March. 2015
+ - 情報処理学会論文誌ジャーナル/JIP特選論文 (JIP Specially Selected Paper), 15 Oct. 2014
