@@ -22,18 +22,18 @@ permalink: /activities/
  
 ### Program Committee Member: 
  - ASE : 2020@NIER Track, 
- - IWOR : 22020, 2019; 
- - IWSC : 22020, 2018, 2017, 2016; 
- - ICSE : 22021@Research Track, 2020@SEIP Track, 2019@SEIP Track, 2018@SEIP Track; 
- - eit : 22019, 2017; 
- - SCAM : 22019@Research Track;
- - ICPC : 22019@Technical Research Track, 2019@Tool Track, 2018@Tool Track; 
- - SANER : 22021@RENE Track, 2021@Early Research Achievements Track, 22020@RENE Track, 2020@Early Research Achievements Track, 2019@Early Research Achievements Track; 
- - APSEC : 22020@ERA Track, 2019, 2018@Research Track, 2018@ERA Track, 2016@Resaerch Track; 
- - ESEC/FSE : 22018@Artifacts Track; 
- - MAINT : 22018; 
- - ICSME : 22017@Tool Demo Track, 2017@Artifacts Track; 
- - IWESEP : 22016
+ - IWOR : 2020, 2019; 
+ - IWSC : 2020, 2018, 2017, 2016; 
+ - ICSE : 2021@Research Track, 2020@SEIP Track, 2019@SEIP Track, 2018@SEIP Track; 
+ - eit : 2019, 2017; 
+ - SCAM : 2019@Research Track;
+ - ICPC : 2019@Technical Research Track, 2019@Tool Track, 2018@Tool Track; 
+ - SANER : 2021@RENE Track, 2021@Early Research Achievements Track, 2020@RENE Track, 2020@Early Research Achievements Track, 2019@Early Research Achievements Track; 
+ - APSEC : 2020@ERA Track, 2019, 2018@Research Track, 2018@ERA Track, 2016@Resaerch Track; 
+ - ESEC/FSE : 2018@Artifacts Track; 
+ - MAINT : 2018; 
+ - ICSME : 2017@Tool Demo Track, 2017@Artifacts Track; 
+ - IWESEP : 2016
  
 ###  Organizing/Steering Committee Member: 
  - Organizing Committee Member for WISE2018
@@ -49,7 +49,7 @@ permalink: /activities/
  - Special Section on Empirical Software Engineering, IEICE Transactions on Information and Systems 2019
  
 ### Social/Volunteer Activities
- - IEEE Kansai Section Woman in Engineering Affinity Group, Vice-Chair (Jan. 2018 - present), Secretary (Jan. 2016 - Dec. 2017)
+ - IEEE Kansai Section Woman in Engineering Affinity Group, Vice-Chair (Jan. 2018 - Dec. 2020), Secretary (Jan. 2016 - Dec. 2017)
  - 36th International Conference on Software Engineering (ICSE) 2014, Student Volunteer
   
 ### プログラム委員、査読 (Japanese)：
