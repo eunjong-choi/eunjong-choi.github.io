@@ -66,6 +66,13 @@ permalink: /publications/
 - Eunjong Choi, Norihiro Yoshida, Takashi Ishio, Katsuro Inoue, and Tateki Sano: "Extracting Code Clones for Refactoring Using Combinations of Clone Metrics", Proceedings of the 5th International Workshop on Software Clones (IWSC 2011), pp.7-13, Waikiki, HI, USA, May 2011
 
 ### Journal  (peer reviewed) 
+
+- 藤原 裕士, 崔 恩瀞, 吉田 則裕, 井上 克郎: "深層学習を用いたソースコード分類手法の比較調査", 電子情報通信学会論文誌D, Vol.J104-D, No.08, 2021年8月（採録決定）.
+
+- 西浦 生成,水野 修,崔 恩瀞 : "Javaテストコードの再利用による自動生成に向けた移植可能なテストメソッドの調査", 情報処理学会論文誌（採録決定）
+
+- 西浦 生成,渡辺 大輝,水野 修,崔 恩瀞 : "組み合わせテストにおける実行順序に起因する非決定的不具合誘発要因特定法の提案", 情報処理学会論文誌（採録決定）
+
 - 瀬村 雄一, 吉田 則裕, 崔 恩瀞, 井上 克郎. "多様なプログラミング言語に対応可能なコードクローン検出ツールCCFinderSW", 電子情報通信学会論文誌D, Vol.J103-D, No.04, pp.215-227, 2020年4月. [pdf] 利用上の注意事項
 
 - Md. Rejaul Karim, Akinori Ihara, Eunjong Choi, Hajimu Iida. "Identifying and Predicting Key Features to Support Bug Reporting", Journal of Software: Evolution and Process, Vol.31, No.12, e218 [pdf] 
