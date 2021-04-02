@@ -73,7 +73,9 @@ permalink: /publications/
 
 - 西浦 生成,渡辺 大輝,水野 修,崔 恩瀞 : "組み合わせテストにおける実行順序に起因する非決定的不具合誘発要因特定法の提案", 情報処理学会論文誌（採録決定）
 
-- 瀬村 雄一, 吉田 則裕, 崔 恩瀞, 井上 克郎. "多様なプログラミング言語に対応可能なコードクローン検出ツールCCFinderSW", 電子情報通信学会論文誌D, Vol.J103-D, No.04, pp.215-227, 2020年4月. [pdf] 利用上の注意事項
+- 藤原 裕士, 崔 恩瀞, 吉田 則裕, 井上 克郎: "深層学習を用いたソースコード分類のための動的な学習用データセット改善手法の提案", 電子情報通信学会論文誌D, Vol.J104-D, No.04, pp.275-284, 2021年4月.  利用上の注意事項
+
+- 瀬村 雄一, 吉田 則裕, 崔 恩瀞, 井上 克郎. "多様なプログラミング言語に対応可能なコードクローン検出ツールCCFinderSW", 電子情報通信学会論文誌D, Vol.J103-D, No.04, pp.215-227, 2020年4月.利用上の注意事項
 
 - Md. Rejaul Karim, Akinori Ihara, Eunjong Choi, Hajimu Iida. "Identifying and Predicting Key Features to Support Bug Reporting", Journal of Software: Evolution and Process, Vol.31, No.12, e218 [pdf] 
 
