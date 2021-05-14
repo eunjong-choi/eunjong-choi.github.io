@@ -5,6 +5,7 @@ permalink: /miscellany/
 ---
 
 ### Teaching 
+ - ソフトウェア工学 at Kyoto Institute of Technology (in Japanese): 2021
  - ソフトウェア設計論 (Software Design, 2nd Semester) at Nara Institute of science and technology (in Japanese):  2019, 2018, 2017, 2016 
  - Special Lecture in Information Science A (情報科学特別講義A) at Nara Institute of science and technology  (in English): 2018
  - ソフトウェア開発演習Ⅰ (Exercise in Practical Software Development I, 3rd Semester) at Nara Institute of science and technology (in Japanese): 2017, 2016
